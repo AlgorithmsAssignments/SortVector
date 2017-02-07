@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1486511328 source:/home/turupawn/Clases/Analisis/8 - Sort Vector/main.cpp
+	"Test.h"
+	<iostream>
+
+1486509319 /home/turupawn/Clases/Analisis/8 - Sort Vector/Test.h
+	<iostream>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1486511371 source:/home/turupawn/Clases/Analisis/8 - Sort Vector/Test.cpp
+	"Test.h"
+
