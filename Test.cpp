@@ -3,6 +3,7 @@
 void test()
 {
     vector<int> v1;
+    srand(time(NULL));
     for(int i=0;i<10;i++)
     {
         v1.push_back(rand()%100);
@@ -16,7 +17,7 @@ void test()
         if(v1[i]<v1[i-1])
             is_sorted = false;
 
-    if(is_sorted)
+    if(v1.size()==10 && is_sorted)
     {
         cout<<"Test: Pass"<<endl;
     }else
