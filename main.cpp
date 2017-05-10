@@ -4,8 +4,8 @@ using namespace std;
 
 vector<int> sort(vector<int> numbers)
 {
-    vector<int> respuesta;
-    return respuesta;
+  vector<int> answer;
+  return answer;
 }
 
 int main ()
